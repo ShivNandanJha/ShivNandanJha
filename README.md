@@ -1,6 +1,6 @@
 ![logo](https://github.com/ShivNandanJha/ShivNandanJha/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Shiv Nandan Jha</h1>
-<h3 align="center">I am a passionate frontend developer from India</h3>
+<h3 align="center">I am a passionate frontend developer and Data Analyst from India</h3>
 <img align="center" alt="coding" width="700" src="https://jusmarktech.com/public/a/images/pages/web_development.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivnandanjha&label=Profile%20views&color=0e75b6&style=flat" alt="shivnandanjha" /> </p>
@@ -9,9 +9,11 @@
 
 - 🔭 I’m currently working on **Blog Website**
 
-- 🌱 I’m currently learning **Backend and server-side development**
+- 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [shivnandanjha-portfolio.netlify.app](shivnandanjha-portfolio.netlify.app)
+- 👨‍💻 All of my Web Developments projects are available at ([Bro_CODE)](https://portfolio-shivi.netlify.app/)
+- 👨‍💻 All of my Data Analyst projects are available at ([Bro_CODE)](https://www.datascienceportfol.io/brocode_shivnandan)
+  
 
 - 📫 How to reach me **neureto12@gmail.com**
 

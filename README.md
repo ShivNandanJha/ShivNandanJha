@@ -1,36 +1,339 @@
-![logo](https://github.com/ShivNandanJha/ShivNandanJha/blob/main/github-header-image%20(1).png)
-<h1 align="center">Hi 👋, I'm Shiv Nandan Jha</h1>
-<h3 align="center">I am a passionate frontend developer and Data Analyst from India</h3>
-<img align="center" alt="coding" width="700" src="https://jusmarktech.com/public/a/images/pages/web_development.gif"
+# Hi 👋, I'm Shiv Nandan Jha
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivnandanjha&label=Profile%20views&color=0e75b6&style=flat" alt="shivnandanjha" /> </p>
+### 📊 Data Analyst | Business Intelligence Enthusiast | Machine Learning Learner
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivnandanjha" alt="shivnandanjha" /></a> </p>
+<img src="https://raw.githubusercontent.com/ShivNandanJha/ShivNandanJha/main/github-header-image%20(1).png" width="100%" alt="banner"/>
 
-- 🔭 I’m currently working on **Blog Website**
-
-- 🌱 I’m currently learning **Data Science**
-
-- 👨‍💻 All of my Web Developments projects are available at ([Bro_CODE)](https://portfolio-shivi.netlify.app/)
-- 👨‍💻 All of my Data Analyst projects are available at ([Bro_CODE)](https://www.datascienceportfol.io/brocode_shivnandan)
-  
-
-- 📫 How to reach me **neureto12@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/shivi-code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/shivi-code" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shiv-nandan-jha-4179a4251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shiv-nandan-jha-4179a4251" height="30" width="40" /></a>
-<a href="https://www.instagram.com/probably_shiv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/probably_shiv/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shivnandan_12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/shivnandan_12" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/neureto12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/neureto12" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShivNandanJha&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:shivjha1226@email.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shiv-nandan-jha-4179a4251">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://portfolio-shivnandan.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivnandanjha&show_icons=true&locale=en&layout=compact" alt="shivnandanjha" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivnandanjha&show_icons=true&locale=en" alt="shivnandanjha" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivnandanjha&" alt="shivnandanjha" /></p>
+I am a passionate **Data Analyst** with experience in transforming raw data into actionable business insights. My expertise lies in data analysis, dashboard development, business intelligence, and machine learning.
+
+* 📊 Currently working as a **Data Analyst & Website Developer**
+* 🏥 Analyzing real-world healthcare datasets at Paramount Hospital
+* 🐍 Strong foundation in Python, SQL, Power BI, and Machine Learning
+* 📈 Passionate about solving business problems through data
+* 🌱 Currently exploring Data Science and Advanced Analytics
+* 💡 Interested in Business Intelligence, Predictive Analytics, and AI
+
+---
+
+## 💼 Professional Experience
+
+### Data Analyst & Website Developer
+
+**Paramount Hospital Pvt. Ltd.** | June 2024 – Present
+
+🔹 Analyzed patient appointment and healthcare datasets to identify trends and operational insights.
+
+🔹 Delivered actionable recommendations that supported resource planning and department-level decision-making.
+
+🔹 Collaborated in redevelopment of the hospital's website and sub-sites using React, HTML, and CSS.
+
+🔹 Assisted management in making data-driven decisions through analytics and reporting.
+
+---
+
+## 📊 Featured Analytics Projects
+
+### 🚖 Uber Data Analysis
+
+**Tech Stack:** Python, Pandas, Matplotlib, Seaborn
+
+* Conducted Exploratory Data Analysis (EDA) on ride-sharing data.
+* Identified peak demand periods and geographical ride patterns.
+* Built visualizations to support driver deployment strategies.
+
+---
+
+### 🛒 Amazon Sales Dashboard
+
+**Tech Stack:** Power BI, SQL, Excel
+
+* Built an interactive sales performance dashboard.
+* Analyzed revenue trends and customer behavior.
+* Developed KPI-driven business intelligence reports.
+
+---
+
+### 🎵 Spotify Trend Analysis Dashboard
+
+**Tech Stack:** Power BI, SQL, Excel
+
+* Created a dashboard to analyze music streaming trends.
+* Identified top-performing artists, tracks, and genre patterns.
+* Designed visually engaging reports and insights.
+
+---
+
+### 🤖 Sensor Fault Detection ML Model
+
+**Tech Stack:** Python, TensorFlow, SQL, AWS S3, Kafka, MLflow
+
+* Developed a machine learning model for sensor fault prediction.
+* Implemented model tracking and monitoring workflows.
+* Improved predictive maintenance capabilities.
+
+---
+
+## 🛠️ Data Analytics & Technology Stack
+
+### 📊 Data Analytics
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+### 🐍 Python Libraries
+
+<p align="left">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-2E7D32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy"/>
+<img src="https://img.shields.io/badge/Statsmodels-0F4C81?style=for-the-badge"/>
+</p>
+
+### 🤖 Machine Learning & AI
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka"/>
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
+
+### ☁️ Cloud & Deployment
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,docker" />
+<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws"/>
+</p>
+
+### 📈 Business Intelligence
+
+* Power BI
+* DAX
+* Power Query
+* Tableau
+* KPI Development
+* Dashboard Design
+* Business Reporting
+* Data Storytelling
+* Data Modeling
+
+### 📑 Data Processing
+
+* Data Cleaning
+* Data Wrangling
+* ETL Pipelines
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* Data Validation
+* Statistical Analysis
+* A/B Testing
+
+### 📊 Excel Expertise
+
+* Pivot Tables
+* Power Query
+* VLOOKUP / XLOOKUP
+* INDEX MATCH
+* Conditional Formatting
+* Dashboarding
+* Data Validation
+* Financial Modeling
+
+### 🌐 Web Scraping & Automation
+
+<p align="left">
+<img src="https://img.shields.io/badge/BeautifulSoup-4A4A4A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium"/>
+</p>
+
+### 💻 Development Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux" />
+</p>
+
+### 🌐 Web Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb" />
+</p>
+
+### 🧠 Core Concepts
+
+* Data Structures & Algorithms
+* Object Oriented Programming
+* Database Management Systems
+* Computer Networks
+* Operating Systems
+* Software Engineering
+* Statistics
+* Probability
+* Business Analytics
+
+### Programming & Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql,mongodb" />
+</p>
+
+### Data Analysis & Visualization
+
+<p align="left">
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+### Python Libraries
+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* TensorFlow
+* Streamlit
+* BeautifulSoup
+
+### Machine Learning & Cloud
+
+* TensorFlow
+* MLflow
+* AWS S3
+* Kafka
+
+### Web Development
+
+* React.js
+* Next.js
+* HTML5
+* CSS3
+* JavaScript
+* TypeScript
+* Node.js
+* Express.js
+
+---
+
+## 📚 Education
+
+🎓 **Bachelor of Computer Applications (BCA)**
+Online Manipal University Jaipur
+2022 – 2025
+
+🎓 **Senior Secondary (PCM - CBSE)**
+BSF Senior Secondary School, Siliguri
+
+---
+
+## 🏆 Certifications
+
+### IBM
+
+📜 Data Science and Machine Learning Specialization
+
+### Meta
+
+📜 Frontend Development Specialization
+
+### Google
+
+📜 IT Support Professional Specialization
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShivNandanJha&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivNandanJha&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivNandanJha&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 2025 Goals
+
+* Master Advanced SQL
+* Build End-to-End Data Analytics Projects
+* Develop Production-Ready Power BI Dashboards
+* Learn Machine Learning Deployment
+* Contribute to Open Source Data Projects
+* Land a Full-Time Data Analyst Role
+
+---
+
+## 🌐 Portfolio
+
+### 📊 Data Analytics Portfolio
+
+https://www.datascienceportfol.io/brocode_shivnandan
+
+### 💻 Web Development Portfolio
+
+https://portfolio-shivnandan.vercel.app/
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+<a href="https://www.linkedin.com/in/shiv-nandan-jha-4179a4251">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:shivjha1226@email.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/ShivNandanJha">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.instagram.com/probably_shiv/">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+</p>
+
+---
+
+### 📊 Turning Data Into Business Decisions
+
+*"Without data, you're just another person with an opinion."* — W. Edwards Deming

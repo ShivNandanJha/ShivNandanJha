@@ -1,339 +1,236 @@
-# Hi 👋, I'm Shiv Nandan Jha
+<div align="center">
 
-### 📊 Data Analyst | Business Intelligence Enthusiast | Machine Learning Learner
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=Shiv%20Nandan%20Jha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Turning%20raw%20data%20into%20decisions%20that%20matter&descAlignY=60&animation=fadeIn" alt="Shiv Nandan Jha banner" />
 
-<img src="https://raw.githubusercontent.com/ShivNandanJha/ShivNandanJha/main/github-header-image%20(1).png" width="100%" alt="banner"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=760&lines=Data+Analyst+%7C+Business+Intelligence+Enthusiast;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Machine+Learning;Finding+the+story+hidden+inside+the+data" alt="Animated typing introduction" />
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShivNandanJha&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-</p>
+<br/>
 
-<p align="center">
-  <a href="mailto:shivjha1226@email.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shiv-nandan-jha-4179a4251">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://portfolio-shivnandan.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/shiv-nandan-jha-4179a4251"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:shivjha1226@email.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://portfolio-shivnandan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.datascienceportfol.io/brocode_shivnandan"><img src="https://img.shields.io/badge/Data%20Portfolio-View%20Projects-7B61FF?style=for-the-badge&logo=databricks&logoColor=white" alt="Data portfolio" /></a>
 
----
+<br/><br/>
 
-## 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=ShivNandanJha&label=PROFILE+VIEWS&color=238636&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/ShivNandanJha?label=FOLLOWERS&style=flat-square&color=1f6feb" alt="GitHub followers" />
 
-I am a passionate **Data Analyst** with experience in transforming raw data into actionable business insights. My expertise lies in data analysis, dashboard development, business intelligence, and machine learning.
-
-* 📊 Currently working as a **Data Analyst & Website Developer**
-* 🏥 Analyzing real-world healthcare datasets at Paramount Hospital
-* 🐍 Strong foundation in Python, SQL, Power BI, and Machine Learning
-* 📈 Passionate about solving business problems through data
-* 🌱 Currently exploring Data Science and Advanced Analytics
-* 💡 Interested in Business Intelligence, Predictive Analytics, and AI
+</div>
 
 ---
 
-## 💼 Professional Experience
+## `> whoami`
 
-### Data Analyst & Website Developer
+```yaml
+name: Shiv Nandan Jha
+role: Data Analyst & Website Developer
+organization: Paramount Hospital Pvt. Ltd.
+focus: [Business Intelligence, Predictive Analytics, AI]
+currently_learning: Data Science & Advanced Analytics
+mission: Transform complex data into clear, actionable business decisions
+```
 
-**Paramount Hospital Pvt. Ltd.** | June 2024 – Present
+I’m a data analyst who enjoys moving from a messy dataset to a clear business story. I work across **analysis, dashboard development, business intelligence, and machine learning**, pairing technical depth with an eye for useful, decision-ready insights.
 
-🔹 Analyzed patient appointment and healthcare datasets to identify trends and operational insights.
-
-🔹 Delivered actionable recommendations that supported resource planning and department-level decision-making.
-
-🔹 Collaborated in redevelopment of the hospital's website and sub-sites using React, HTML, and CSS.
-
-🔹 Assisted management in making data-driven decisions through analytics and reporting.
+- 🏥 Analyzing real-world healthcare data and supporting operational decisions at **Paramount Hospital**
+- 📊 Building dashboards and KPI-driven reports with **Power BI, SQL, and Excel**
+- 🐍 Exploring data and developing predictive solutions with **Python and machine learning**
+- 🌐 Contributing to web experiences with **React, HTML, and CSS**
+- 🌱 Growing deeper into **data science, advanced analytics, and AI**
 
 ---
 
-## 📊 Featured Analytics Projects
+## Experience
+
+<table>
+<tr>
+<td width="22%" align="center">
+  <h3>Jun 2024<br/>— Present</h3>
+  <sub>Healthcare · Analytics · Web</sub>
+</td>
+<td width="78%">
+  <h3>Data Analyst & Website Developer</h3>
+  <b>Paramount Hospital Pvt. Ltd.</b><br/><br/>
+  • Analyze patient appointments and healthcare datasets to uncover trends and operational insights.<br/>
+  • Deliver recommendations for resource planning and department-level decision-making.<br/>
+  • Support management with analytics, reporting, and data-driven decision processes.<br/>
+  • Collaborate on the hospital website and sub-sites using React, HTML, and CSS.
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🚖 Uber Data Analysis
 
-**Tech Stack:** Python, Pandas, Matplotlib, Seaborn
+Explored ride-sharing data to identify **peak demand windows** and **geographical ride patterns**, producing visual insights that can support smarter driver deployment.
 
-* Conducted Exploratory Data Analysis (EDA) on ride-sharing data.
-* Identified peak demand periods and geographical ride patterns.
-* Built visualizations to support driver deployment strategies.
+`Python` `Pandas` `Matplotlib` `Seaborn`
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🛒 Amazon Sales Dashboard
 
-**Tech Stack:** Power BI, SQL, Excel
+Built an interactive, KPI-led dashboard to reveal **revenue trends**, **sales performance**, and **customer behavior** for faster business decisions.
 
-* Built an interactive sales performance dashboard.
-* Analyzed revenue trends and customer behavior.
-* Developed KPI-driven business intelligence reports.
+`Power BI` `SQL` `Excel`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🎵 Spotify Trend Analysis Dashboard
+### 🎵 Spotify Trend Dashboard
 
-**Tech Stack:** Power BI, SQL, Excel
+Designed an engaging BI experience to surface **top artists**, **popular tracks**, and meaningful **genre and streaming patterns**.
 
-* Created a dashboard to analyze music streaming trends.
-* Identified top-performing artists, tracks, and genre patterns.
-* Designed visually engaging reports and insights.
+`Power BI` `SQL` `Excel`
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🤖 Sensor Fault Detection ML Model
+### 🤖 Sensor Fault Detection
 
-**Tech Stack:** Python, TensorFlow, SQL, AWS S3, Kafka, MLflow
+Developed a predictive model for sensor faults, with model tracking and monitoring workflows designed to strengthen **predictive maintenance**.
 
-* Developed a machine learning model for sensor fault prediction.
-* Implemented model tracking and monitoring workflows.
-* Improved predictive maintenance capabilities.
+`Python` `TensorFlow` `SQL` `AWS S3` `Kafka` `MLflow`
 
----
-
-## 🛠️ Data Analytics & Technology Stack
-
-### 📊 Data Analytics
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
-
-### 🐍 Python Libraries
-
-<p align="left">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-2E7D32?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy"/>
-<img src="https://img.shields.io/badge/Statsmodels-0F4C81?style=for-the-badge"/>
-</p>
-
-### 🤖 Machine Learning & AI
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka"/>
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
-</p>
-
-### ☁️ Cloud & Deployment
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,docker" />
-<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws"/>
-</p>
-
-### 📈 Business Intelligence
-
-* Power BI
-* DAX
-* Power Query
-* Tableau
-* KPI Development
-* Dashboard Design
-* Business Reporting
-* Data Storytelling
-* Data Modeling
-
-### 📑 Data Processing
-
-* Data Cleaning
-* Data Wrangling
-* ETL Pipelines
-* Exploratory Data Analysis (EDA)
-* Feature Engineering
-* Data Validation
-* Statistical Analysis
-* A/B Testing
-
-### 📊 Excel Expertise
-
-* Pivot Tables
-* Power Query
-* VLOOKUP / XLOOKUP
-* INDEX MATCH
-* Conditional Formatting
-* Dashboarding
-* Data Validation
-* Financial Modeling
-
-### 🌐 Web Scraping & Automation
-
-<p align="left">
-<img src="https://img.shields.io/badge/BeautifulSoup-4A4A4A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium"/>
-</p>
-
-### 💻 Development Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux" />
-</p>
-
-### 🌐 Web Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb" />
-</p>
-
-### 🧠 Core Concepts
-
-* Data Structures & Algorithms
-* Object Oriented Programming
-* Database Management Systems
-* Computer Networks
-* Operating Systems
-* Software Engineering
-* Statistics
-* Probability
-* Business Analytics
-
-### Programming & Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql,mongodb" />
-</p>
-
-### Data Analysis & Visualization
-
-<p align="left">
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
-
-### Python Libraries
-
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* TensorFlow
-* Streamlit
-* BeautifulSoup
-
-### Machine Learning & Cloud
-
-* TensorFlow
-* MLflow
-* AWS S3
-* Kafka
-
-### Web Development
-
-* React.js
-* Next.js
-* HTML5
-* CSS3
-* JavaScript
-* TypeScript
-* Node.js
-* Express.js
+</td>
+</tr>
+</table>
 
 ---
 
-## 📚 Education
+## Technology Constellation
 
-🎓 **Bachelor of Computer Applications (BCA)**
-Online Manipal University Jaipur
-2022 – 2025
+<div align="center">
 
-🎓 **Senior Secondary (PCM - CBSE)**
-BSF Senior Secondary School, Siliguri
+### Analytics & Business Intelligence
 
----
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" alt="Power BI" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=fff" alt="Tableau" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=fff" alt="Excel" />
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" alt="DAX" />
+<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=fff" alt="Power Query" />
 
-## 🏆 Certifications
+`KPI Development` · `Dashboard Design` · `Data Storytelling` · `Data Modeling` · `Business Reporting`
 
-### IBM
+### Data, Machine Learning & Cloud
 
-📜 Data Science and Machine Learning Specialization
+<img src="https://skillicons.dev/icons?i=python,tensorflow,mysql,postgres,mongodb,aws,docker,kafka&theme=dark" alt="Python, TensorFlow, databases, AWS, Docker and Kafka" />
 
-### Meta
+<br/><br/>
 
-📜 Frontend Development Specialization
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=fff" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=fff" alt="NumPy" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=fff" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square" alt="XGBoost" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=fff" alt="MLflow" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=fff" alt="Plotly" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=fff" alt="SciPy" />
+<img src="https://img.shields.io/badge/Statsmodels-0F4C81?style=flat-square" alt="Statsmodels" />
 
-### Google
+`Data Cleaning` · `ETL Pipelines` · `EDA` · `Feature Engineering` · `Statistical Analysis` · `A/B Testing`
 
-📜 IT Support Professional Specialization
+### Development & Automation
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,git,github,vscode,jupyter,linux&theme=dark" alt="Web development and developer tools" />
 
-## 📈 GitHub Analytics
+<br/><br/>
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShivNandanJha&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivNandanJha&layout=compact&theme=tokyonight"/>
-</p>
+<img src="https://img.shields.io/badge/BeautifulSoup-4A4A4A?style=flat-square&logo=python&logoColor=fff" alt="BeautifulSoup" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=fff" alt="Selenium" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=fff" alt="Streamlit" />
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivNandanJha&theme=tokyonight"/>
-</p>
+</div>
 
----
+<details>
+<summary><b>More capabilities</b></summary>
+<br/>
 
-## 🎯 2025 Goals
+**Excel:** Pivot Tables, Power Query, VLOOKUP/XLOOKUP, INDEX MATCH, conditional formatting, dashboarding, data validation, and financial modeling.
 
-* Master Advanced SQL
-* Build End-to-End Data Analytics Projects
-* Develop Production-Ready Power BI Dashboards
-* Learn Machine Learning Deployment
-* Contribute to Open Source Data Projects
-* Land a Full-Time Data Analyst Role
+**Core concepts:** Data Structures & Algorithms, OOP, DBMS, computer networks, operating systems, software engineering, statistics, probability, and business analytics.
 
----
-
-## 🌐 Portfolio
-
-### 📊 Data Analytics Portfolio
-
-https://www.datascienceportfol.io/brocode_shivnandan
-
-### 💻 Web Development Portfolio
-
-https://portfolio-shivnandan.vercel.app/
+</details>
 
 ---
 
-## 🤝 Let's Connect
+## Education & Certifications
 
-<p align="left">
-<a href="https://www.linkedin.com/in/shiv-nandan-jha-4179a4251">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:shivjha1226@email.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/ShivNandanJha">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.instagram.com/probably_shiv/">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-</p>
+| | Program | Institution / Provider | Period |
+|:--:|---|---|:--:|
+| 🎓 | **Bachelor of Computer Applications (BCA)** | Online Manipal University Jaipur | 2022–2025 |
+| 🎓 | **Senior Secondary — PCM (CBSE)** | BSF Senior Secondary School, Siliguri | — |
+| 📜 | Data Science & Machine Learning Specialization | IBM | Certified |
+| 📜 | Frontend Development Specialization | Meta | Certified |
+| 📜 | IT Support Professional Specialization | Google | Certified |
 
 ---
 
-### 📊 Turning Data Into Business Decisions
+## GitHub Pulse
 
-*"Without data, you're just another person with an opinion."* — W. Edwards Deming
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ShivNandanJha&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=7B61FF&rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ShivNandanJha&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F&icon_color=8250DF&rank_icon=github" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=ShivNandanJha&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivNandanJha&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivNandanJha&layout=compact&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivNandanJha&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+</picture>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=ShivNandanJha&theme=transparent&hide_border=true&ring=7B61FF&fire=FF7B72&currStreakLabel=58A6FF" alt="GitHub contribution streak" />
+
+<br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShivNandanJha&bg_color=00000000&color=58A6FF&line=7B61FF&point=FF7B72&area=true&area_color=7B61FF&hide_border=true" alt="Contribution activity graph" />
+
+</div>
+
+---
+
+## 2025 Goals
+
+- [ ] Master advanced SQL
+- [ ] Build end-to-end data analytics projects
+- [ ] Develop production-ready Power BI dashboards
+- [ ] Learn machine learning deployment
+- [ ] Contribute to open-source data projects
+- [ ] Land a full-time Data Analyst role
+
+---
+
+<div align="center">
+
+### Let’s turn data into decisions.
+
+I’m always open to conversations about **analytics, BI, machine learning, and meaningful collaborations**.
+
+<a href="mailto:shivjha1226@email.com"><img src="https://img.shields.io/badge/Start_a_Conversation-Email_Me-7B61FF?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email Shiv" /></a>
+
+<br/><br/>
+
+> “Without data, you're just another person with an opinion.” — W. Edwards Deming
+
+<a href="https://www.instagram.com/probably_shiv/"><img src="https://img.shields.io/badge/Instagram-probably__shiv-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://github.com/ShivNandanJha"><img src="https://img.shields.io/badge/GitHub-ShivNandanJha-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20&animation=fadeIn" alt="Footer wave" />
+
+</div>
